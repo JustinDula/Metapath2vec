@@ -1,0 +1,11 @@
+[[source]]
+url = 'https://pypi.python.org/simple'
+verify_ssl = true
+
+[requires]
+python_version = '3.8'
+
+[packages]
+tensorflow = "==1.15.2"
+numpy = "==1.17.0"
+
